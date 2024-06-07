@@ -1,0 +1,12 @@
+history
+add
+script_movie
+1
+6
+man
+77
+orange
+99
+r
+horror
+execute_script C:\123\lab6\scr.txt
